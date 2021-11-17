@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "dong.mi.hellowcordov"
+    },
+    "cordova-plugin-geolocation": {
+      "GPS_REQUIRED": "true",
+      "PACKAGE_NAME": "dong.mi.hellowcordov"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "dong.mi.hellowcordov"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "dong.mi.hellowcordov"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "dong.mi.hellowcordov"
+    }
+  },
+  "dependent_plugins": {}
+}
